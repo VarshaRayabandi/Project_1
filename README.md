@@ -1,4 +1,4 @@
 # Project_1
 This is my first repository.
 <br>
-Author - Varsha Rayabandi
+Author - Varsha(R)
