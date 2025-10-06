@@ -1,2 +1,2 @@
 print("Hello World")
-print("Thank you for accessing.")
+print("Hi Amma, I am taking over the project, Thanks for the access")
